@@ -1,1 +1,1 @@
-# functions
+# This repository is about Javascript functions.
